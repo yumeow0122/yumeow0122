@@ -2,26 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=yumeow0122&label=Profile%20views&color=0e75b6&style=flat" alt="yumeow0122" />
 </p>
 
-<h3 align="left">👋 About Me:</h3>
+<h2 align="left">👋 About Me...</h2>
 <p align="left">
 Hello! I am a graduate student in the Department of Computer Science and Information Engineering (CSIE) at National Chung Hsing University (NCHU). 
 My research focuses on <strong>natural language processing (NLP)</strong> and its applications, with additional interests in <strong>backend development</strong> and <strong>system design</strong>.
 </p>
 
 
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-  <a href="mailto:yumeow0122@gmail.com" target="_blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/%e5%ae%97%e7%bf%94-%e5%91%a8-6710a6247/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-</p>
-
-
-
+<h2>🔭 I’m currently code with ...</h2>
 <h3 align="left">🔧 Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -34,7 +22,6 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
 </p>
-
 
 <h3 align="left">🔧 Tools:</h3>
 <p align="left">
@@ -64,7 +51,15 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+
+<h2 align="left">📬 Connect with me...</h2>
+    <ul>
+        <li>Email: <a href="mailto:yumeow0122@gmail.com">yumeow0122@gmail.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/tsung-hsiang-chou-6710a6247/">Tsung-Hsiang Chou</a></li>
+    </ul>
+
+
+<h2 align="left">📊 GitHub Stats</h2>
 <table align="left">
   <tr>
     <td>
