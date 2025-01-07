@@ -82,13 +82,11 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
   </tr>
   
   <tr>
-  <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark" alt="Wakatime Languages" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark&custom_title=Operating Systems" alt="Wakatime Operating Systems" />
     </td>
-  </tr>
   </tr>
 </table>
