@@ -58,27 +58,37 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
     </ul>
 
 
-<h2 align="left">📊 GitHub Stats</h2>
-<table align="left">
+<h2 align="left">📊 Status</h2>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yumeow0122&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=yumeow0122&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     </td>
-    <td>
-        <a href="https://leetcode.com/yumeow0122">
+    <td colspan="2" align="center">
+      <a href="https://leetcode.com/yumeow0122">
         <picture>
-            <source
-              srcset="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0"
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <source 
-              srcset="https://leetcard.jacoblin.cool/yumeow0122?theme=dark&border=0"
-              media="(prefers-color-scheme: dark)"
-            />
-            <img src="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0" height=140  alt="Tomy's LeetCode stats" />
+          <source
+            srcset="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <source
+            srcset="https://leetcard.jacoblin.cool/yumeow0122?theme=dark&border=0"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img src="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0" height="140" alt="Yumeow's LeetCode stats" />
         </picture>
+      </a>
     </td>
   </tr>
+  
+  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark" alt="Wakatime Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark&custom_title=Operating Systems" alt="Wakatime Operating Systems" />
+    </td>
+  </tr>
+  </tr>
+</table>
