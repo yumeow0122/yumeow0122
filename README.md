@@ -67,5 +67,18 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=yumeow0122&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     </td>
+    <td>
+        <a href="https://leetcode.com/yumeow0122">
+        <picture>
+            <source
+              srcset="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <source 
+              srcset="https://leetcard.jacoblin.cool/yumeow0122?theme=dark&border=0"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0" height=140  alt="Tomy's LeetCode stats" />
+        </picture>
+    </td>
   </tr>
-</table>
