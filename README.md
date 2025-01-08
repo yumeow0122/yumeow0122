@@ -62,7 +62,7 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yumeow0122&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark" alt="Wakatime Languages" />
     </td>
     <td colspan="2" align="center">
       <a href="https://leetcode.com/yumeow0122">
@@ -78,15 +78,6 @@ My research focuses on <strong>natural language processing (NLP)</strong> and it
           <img src="https://leetcard.jacoblin.cool/yumeow0122?theme=light&border=0" height="140" alt="Yumeow's LeetCode stats" />
         </picture>
       </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark" alt="Wakatime Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=dark&custom_title=Operating Systems" alt="Wakatime Operating Systems" />
     </td>
   </tr>
 </table>
