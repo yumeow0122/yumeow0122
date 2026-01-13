@@ -114,27 +114,6 @@ mission: "Making LLMs more reliable!"
 <!-- GitHub 統計 -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/yumeow0122">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yumeow0122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumeow0122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
-  </a>
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://github.com/yumeow0122">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumeow0122&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=FFA500&currStreakLabel=F85D7F"/>
-  </a>
-</p>
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yumeow0122&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-  </a>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/yumeow0122">
