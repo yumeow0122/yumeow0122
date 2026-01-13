@@ -47,6 +47,11 @@ education:
   department: Computer Science & Information Engineering
   degree: M.S. Student
 
+experience:
+  - company: Binance
+    role: NLP Researcher / Data Scientist
+    focus: RAG Systems, Retrieval Model Fine-tuning
+
 research_interests:
   - Natural Language Processing
   - Information Retrieval
