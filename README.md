@@ -58,9 +58,6 @@ mission: "Making LLMs more reliable!"
 ```
 
 </td>
-<td valign="middle" align="center">
-<img alt="Capybara" height="280" src="https://cdn.dribbble.com/userupload/26906814/file/original-ddc1de408d4289771f9be232567068de.gif"/>
-</td>
 </tr>
 </table>
 
@@ -150,12 +147,8 @@ mission: "Making LLMs more reliable!"
 <!-- 分隔線 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Coding Stats -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/> Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yumeow0122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Wakatime Languages" />
-</p>
+<!-- LeetCode Stats -->
+## LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/yumeow0122">
